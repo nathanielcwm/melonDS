@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Tech support does not belong here. You should only file an issue here if you think you have experienced an actual bug.
 title: ''
 labels: ''
 assignees: ''
